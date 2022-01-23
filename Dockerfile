@@ -5,4 +5,4 @@ ENV PROJECT_HOME /usr/app/
 COPY target/*.jar $PROJECT_HOME/app.jar
 WORKDIR $PROJECT_HOME
 CMD ["java", "-jar", "./app.jar"]
-EXPOSE 8883
+EXPOSE 8884
