@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nttdata</groupId>
-	<artifactId>registry-service</artifactId>
+	<artifactId>ms-registry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>registry-service</name>
 	<description>Eureka server for second week&apos;s project at NTT DATA</description>
